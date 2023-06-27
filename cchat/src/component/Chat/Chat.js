@@ -7,7 +7,7 @@ import Message from "../Message/Message";
 import ReactScrollToBottom from "react-scroll-to-bottom";
 import closeIcon from "../../images/closeIcon.png"
 
-const ENDPOINT = "http://localhost:4500/";
+const ENDPOINT = "https://chat-app-kob7.onrender.com/";
 let socket;
 
 function Chat() {
